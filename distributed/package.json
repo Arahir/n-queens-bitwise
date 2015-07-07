@@ -1,0 +1,16 @@
+{
+  "name": "distributed",
+  "version": "1.0.0",
+  "description": "distributed nqueens",
+  "main": "index.js",
+  "dependencies": {
+    "socket.io": "^1.3.5",
+    "express": "^4.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "timothy quach",
+  "license": "ISC"
+}
